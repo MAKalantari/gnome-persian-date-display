@@ -1,0 +1,9 @@
+{
+  "name": "Persian Date Display",
+  "description": "Displays the Date in the iranian Hijri/Shamsi Calender Format",
+  "uuid": "persian-date-display@gnome",
+  "shell-version": ["46", "47", "48", "49", "50"],
+  "url": "https://github.com/MAKalantari/gnome-persian-date-display",
+  "icon": "clock-alt-symbolic",
+  "version": 1
+}
