@@ -1,5 +1,6 @@
 # Desription
-- Simply Uses JS to Conver the Date to Persian Format and Displays it in the gnome-bar 
+- Simply Uses JS to Conver the Date to Persian Format and Displays it in the gnome-bar
+- نمایش دهنده تاریخ هجری شمسی برای گنوم/لینوکس/اوبونتو
 
 # Notice
 - Tested on Gnome 50
